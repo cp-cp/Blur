@@ -5,7 +5,11 @@
 	以训练更大的模型，形成新的商业模式。
 	图像滤波器是为了解决噪点问题而建立的一个数学模型，通过这个模型来将图像数据进行能量转化。本项目基于C++/SYCL工具，实现对均值滤波与高斯滤波并行加速。
 	包括并行计算下的高斯滤波实现，积分图优化的均值滤波
- 
+
+## 🔥 News
+
+* `2023/07/15` 🤗🤗 We, as the participating project in the "[2023 Spring Intel oneAPI Campus Hackathon Competition](https://www.dev4one.com/web/season1#awards)" won the third prize and a special award, and received a 10,000 yuan reward from Intel Corporation. Thank you for Professor [Dai Hongju](https://faculty.sdu.edu.cn/daihongjun/zh_CN/index.htm)'s guidance.
+
 ## Prerequisites
 
 | Optimized for | Description                      |
